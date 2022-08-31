@@ -1,0 +1,50 @@
+div{
+    width: 100%;
+}
+
+#mainbox{
+    width: 97%;
+    height: 500px;
+    /* background-image:url(./image/mountbg.jpg); */
+    margin-top: 14px;
+    float: left;
+    margin-left: 2px;
+    border-radius: 38px;
+
+}
+
+#title{
+    margin-left: 480px;
+    margin-top: -397px;
+    color: black;
+    font-size: 48px;
+    font-family: 'Times New Roman', Times, serif;
+
+
+}
+
+.checked{
+    color: orange;
+}
+.boxes{
+    width: 23%;
+    height: 881px;
+    background-color: black;
+    float: left;
+    color: white;
+    margin-left: 2px;
+    margin-top: 3px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 9px;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+}
+#img1{
+    width: 300px;
+    height: 401px;
+    margin-left: 105px;
+    margin-top: 53px;
+    border-radius: 43px;
+
+}
+
